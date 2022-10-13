@@ -23,6 +23,7 @@ const App = () => {
               headerStyle: {backgroundColor: '#351401'},
               headerTintColor: 'white',
               contentStyle: {backgroundColor: '#3f2f25'},
+              headerBackTitleVisible: false,
             }}>
             <Stack.Screen
               name="MealsCategories"
